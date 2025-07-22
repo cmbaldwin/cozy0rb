@@ -1,0 +1,98 @@
+{
+  "_base": "https://raw.githubusercontent.com/cmbaldwin/cozy0rb/main/",
+  "useme": [
+    "classic_beat_loops/Bill_Withers_-_Use_Me_(101_LoopFix) [2019-03-04 124553].wav"
+  ],
+  "sesame": [
+    "classic_beat_loops/Blowfly_-_Sesame_Street_(2) [2019-03-04 124553].wav"
+  ],
+  "do": [
+    "classic_beat_loops/Bobby_Byrd_Feat._The_J.B's_-_Doin'_The_Do [2019-03-04 124553].wav"
+  ],
+  "funkydrummer": [
+    "classic_beat_loops/James_Brown_-_Funky_Drummer_(2) [2019-03-04 124553].wav"
+  ],
+  "mechanicalman": [
+    "classic_beat_loops/Jerry_Butler_-_I'm_Your_Mechanical_Man_(101_Edit) [2019-03-04 124554].wav"
+  ],
+  "kool": [
+    "classic_beat_loops/Kool_&_The_Gang_-_Chocolate_Buttermilk [2019-03-04 124554].wav"
+  ],
+  "sport": ["classic_beat_loops/Lightnin'_Rod_-_Sport [2019-03-04 124552].wav"],
+  "rill": [
+    "classic_beat_loops/Little_Richard_-_The_Rill_Thing [2019-03-04 124550].wav"
+  ],
+  "think": [
+    "classic_beat_loops/Lyn_Collins_-_Think_(4) [2019-03-04 124551].wav"
+  ],
+  "king": [
+    "classic_beat_loops/Mantronix_-_King_Of_The_Beats [2019-03-04 124552].wav"
+  ],
+  "around": [
+    "classic_beat_loops/Mark_Putney_-_Don't_Come_Around_Here_Anymore [2019-03-04 124552].wav"
+  ],
+  "riffin": [
+    "classic_beat_loops/M.c_Duke_-_I'm_Riffin_(Smokin'_Beats_Small_Edit) [2019-03-04 124552].wav"
+  ],
+  "apache": [
+    "classic_beat_loops/Michael_Viner's_Incredible_Bongo_Band_-_Apache_(1)(Fixed-End) [2019-03-04 124550].wav"
+  ],
+  "neworleans": [
+    "classic_beat_loops/Nat_Adderley_-_New_Orleans [2019-03-04 124550].wav"
+  ],
+  "hitormiss": [
+    "classic_beat_loops/Odetta_-_Hit_Or_Miss [2019-03-04 124550].wav"
+  ],
+  "action": [
+    "classic_beat_loops/Orange_Krush_-_Action [2019-03-04 124551].wav"
+  ],
+  "hotline": [
+    "classic_beat_loops/Rance_Allen_Group_-_Hot_Line_To_Jesus [2019-03-04 124551].wav"
+  ],
+  "swat": [
+    "classic_beat_loops/Rhythm_Heritage_-_Theme_From_S.W.A.T_(Hats) [2019-03-04 124551].wav"
+  ],
+  "ripple": [
+    "classic_beat_loops/Ripple_-_A_Funky_Song [2019-03-04 124551].wav"
+  ],
+  "fireeater": [
+    "classic_beat_loops/Rusty_Bryant_-_Fire_Eater_(2) [2019-03-04 124551].wav"
+  ],
+  "hungup": [
+    "classic_beat_loops/Salt_-_Hung_Up_(1) [2019-03-04 124551].wav",
+    "classic_beat_loops/Salt_-_Hung_Up_(1) [2019-03-04 124553].wav"
+  ],
+  "newday": [
+    "classic_beat_loops/Skull_Snaps_-_Its_A_New_Day [2019-03-04 124549].wav"
+  ],
+  "movement": [
+    "classic_beat_loops/SL_Troopers_-_Movement_(2) [2019-03-04 124549].wav"
+  ],
+  "boogiewoogie": [
+    "classic_beat_loops/Sound_Experience_-_Boogie_Woogie [2019-03-04 124549].wav"
+  ],
+  "delight": [
+    "classic_beat_loops/Sugarhill_Gang_-_Rapper's_Delight [2019-03-04 124549].wav"
+  ],
+  "eeloil": [
+    "classic_beat_loops/The_Bamboos_-_Eel_Oil [2019-03-04 124549].wav"
+  ],
+  "impeach": [
+    "classic_beat_loops/The_Honeydrippers_-_Impeach_The_President [2019-03-04 124550].wav"
+  ],
+  "marymary": [
+    "classic_beat_loops/The_Monkeys_-_Mary_Mary [2019-03-04 124550].wav"
+  ],
+  "amen": [
+    "classic_beat_loops/The_Winstons_-_Amen_Brother [2019-03-04 124550].wav"
+  ],
+  "sneakin": [
+    "classic_beat_loops/Tom_Scott_And_The_L.A._Express_-_Sneakin'_In_The_Back [2019-03-04 124552].wav"
+  ],
+  "squib": [
+    "classic_beat_loops/Tower_Of_Power_-_Squib_Cakes [2019-03-04 124552].wav"
+  ],
+  "groove": [
+    "classic_beat_loops/Wilbur_Bascomb_&_The_Zodiac_-_Just_A_Groove_In_'G' [2019-03-04 124553].wav"
+  ]
+}

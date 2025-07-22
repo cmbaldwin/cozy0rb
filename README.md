@@ -20,17 +20,36 @@ This repository serves as both:
 2. Load samples from this repo in your Strudel code:
 
 ```javascript
-// Load the main sample collection
+// Load the main sample collection and the classic beat loops from: github:yaxu/clean-breaks
 samples(
   "https://raw.githubusercontent.com/cmbaldwin/cozy0rb/main/strudel.json?version=1"
 );
-
-// Or load the original collection
 samples(
-  "https://raw.githubusercontent.com/cmbaldwin/cozy0rb/main/strudel-original.json?version=1"
+  "https://raw.githubusercontent.com/cmbaldwin/cozy0rb/main/strudel-beats.json?version=1"
 );
 
-// Now use samples in your patterns
+// Now use samples in patterns
 s("vindicator/4").fit();
 s("do/4").fit();
 ```
+
+### Local Development
+
+You can also develop sounds locally before deployment using @strudel/sampler:
+
+1. Navigate to your samples directory:
+
+```bash
+cd samples
+npx @strudel/sampler
+```
+
+2. Load samples from your local server in Strudel:
+
+```javascript
+samples("http://localhost:5432/");
+
+n("<0 1 2>").s("swoop smash");
+```
+
+This allows you to test and iterate on your samples locally without needing to deploy them first.

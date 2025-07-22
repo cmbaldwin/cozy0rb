@@ -1,4 +1,7 @@
 {
   "_base": "https://raw.githubusercontent.com/cmbaldwin/cozy0rb/main/",
-  "vindicator": ["sounds/vindicator.wav"]
+  "vindicator": ["wait_and_bleed/vindicator.wav"],
+  "sheener": ["wait_and_bleed/sheener.wav"],
+  "blisser": ["wait_and_bleed/blisser.wav"],
+  "syncopater": ["wait_and_bleed/syncopater.wav"]
 }

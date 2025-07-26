@@ -5,9 +5,11 @@
   "blisser": ["wait_and_bleed/blisser.wav"],
   "syncopater": ["wait_and_bleed/syncopater.wav"],
   "80s_beat_16": ["kenji/80s_beat_16.wav"],
+  "juno_loop": ["kenji/juno_loop.wav"],
   "beats_w_vocals_rev_w_beat_64": ["kenji/beats_w_vocals_rev_w_beat_64.wav"],
   "brass_64": ["kenji/brass_64.wav"],
   "ghost_sample_1": ["kenji/ghost_sample_1.wav"],
+  "kenji_32": ["kenji/kenji_32.wav"],
   "kenji_beats_w_vocals_rev_w_var_beat_64": [
     "kenji/kenji_beats_w_vocals_rev_w_var_beat_64.wav"
   ],

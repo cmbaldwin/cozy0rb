@@ -25,7 +25,7 @@ samples(
   "https://raw.githubusercontent.com/cmbaldwin/cozy0rb/main/strudel.json?version=1"
 );
 samples(
-  "https://raw.githubusercontent.com/cmbaldwin/cozy0rb/main/strudel-beats.json?version=1"
+  "https://raw.githubusercontent.com/cmbaldwin/cozy0rb/main/classic-beat-loops.json?version=1"
 );
 
 // Now use samples in patterns

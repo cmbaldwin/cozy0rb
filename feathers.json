@@ -1,0 +1,19 @@
+{
+  "_base": "https://raw.githubusercontent.com/cmbaldwin/cozy0rb/main/",
+  "vindicator": ["feathers/vindicator.wav"],
+  "sheener": ["feathers/sheener.wav"],
+  "blisser": ["feathers/blisser.wav"],
+  "syncopater": ["feathers/syncopater.wav"],
+  "80s_beat_16": ["kenji/80s_beat_16.wav"],
+  "juno_loop": ["kenji/juno_loop.wav"],
+  "beats_w_vocals_rev_w_beat_64": ["kenji/beats_w_vocals_rev_w_beat_64.wav"],
+  "brass_64": ["kenji/brass_64.wav"],
+  "ghost_sample_1": ["kenji/ghost_sample_1.wav"],
+  "kenji_32": ["kenji/kenji_32.wav"],
+  "kenji_beats_w_vocals_rev_w_var_beat_64": [
+    "kenji/kenji_beats_w_vocals_rev_w_var_beat_64.wav"
+  ],
+  "kenji_w_vocals_64": ["kenji/kenji_w_vocals_64.wav"],
+  "kenji_w_vocals_rev_32": ["kenji/kenji_w_vocals_rev_32.wav"],
+  "organ_64": ["kenji/organ_64.wav"]
+}

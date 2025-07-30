@@ -1,0 +1,13 @@
+{
+  "_base": "https://raw.githubusercontent.com/cmbaldwin/cozy0rb/main/",
+  "80s_beat_spedup_4": ["wait_and_bleed/80s_beat_spedup_4.wav"],
+  "banpaku_2025_park_48": ["wait_and_bleed/banpaku_2025_park_48.wav"],
+  "battu_march_drums_16": ["wait_and_bleed/battu_march_drums_16.wav"],
+  "distorted_guitar_synth_32": ["wait_and_bleed/distorted_guitar_synth_32.wav"],
+  "heavy_synth_base_mod_128": ["wait_and_bleed/heavy_synth_base_mod_128.wav"],
+  "heavy_synth_bass_32": ["wait_and_bleed/heavy_synth_bass_32.wav"],
+  "matsuri_flute_and_taiko_16": [
+    "wait_and_bleed/matsuri_flute_and_taiko_16.wav"
+  ],
+  "yoiyoyana_16": ["wait_and_bleed/yoiyoyana_16.wav"]
+}
